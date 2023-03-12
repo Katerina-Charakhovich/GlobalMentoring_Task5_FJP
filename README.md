@@ -1,7 +1,7 @@
 # GlobalMentoring_Task5_FJP
 # Description
 
-##Task 1 (Optional) - Factorial via FJP
+## Task 1 (Optional) - Factorial via FJP
 
 Cost: 1 point.
 
